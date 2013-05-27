@@ -1,4 +1,5 @@
-x=16.
+x=34.
+#hahahahaha
 s=1.
 k=6
 for k in range(k):
